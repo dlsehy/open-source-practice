@@ -4,6 +4,3 @@ for i in range(5):
 	print('')
 
 
-
-print("This is modified file")
-
